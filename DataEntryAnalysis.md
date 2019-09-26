@@ -19,7 +19,7 @@
  - Make sure the data set is a rectangle.
  - Provide proper units for all variables.  
  
-| Species | Date       | DepthInMeter | TempInFahrenheit | ColonyDiamterInCentimeter | DensityInGramPerCentimeterCube | ChlorophyllA |
+| Species | Date       | DepthInMeter | TempInFahrenheit | ColonyDiameterInCentimeter | DensityInGramPerCentimeterCube | ChlorophyllA |
 |:---------:|:------------:|:--------------:|:------------------:|:---------------------------:|:--------------------------------:|:--------------|
 | chippo  | 2010-06-05 | 0.5          | 11.2             | 3.22                      | 76                             | 3.2          |
 | cuni    | 2010-06-05 | 0.5          | 7.4              | 2.92                      | 62                             | 3.6          |
