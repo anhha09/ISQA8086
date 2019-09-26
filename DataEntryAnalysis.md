@@ -10,7 +10,6 @@
  - The proper units are missing on all three data sets.
  - The *_“zoop - temp-1”_* data set has negative values without explanation.  
 ## *Suggestions*
- - Meaningful file names without spaces.
  - Keep the variable names consistent without spaces and special symbols.
  - Follow the date format **YYYY-MM-DD**.
  - Fill in empty cells or explain why they need to be empty.
