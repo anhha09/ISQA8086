@@ -1,7 +1,7 @@
 # **From Data to Decisions**  
 This is a repository for the course **ISQA8086**-**From Data to Decisions**  
 ## Projects  
-* _Data Entry Analysis_  
+* [_Data Entry Analysis_](https://github.com/anhha09/ISQA8086/blob/master/DataEntryAnalysis.md) 
 * _Data Exploration_  
 ## Instructor
 Dr. Andrea Wiggins
