@@ -2,7 +2,7 @@
 This is a repository for the course **ISQA8086**-**From Data to Decisions**  
 ## Projects  
 * [_Data Entry Analysis_](https://github.com/anhha09/ISQA8086/blob/master/DataEntryAnalysis.md) 
-* [_Data Exploration_  ](https://github.com/anhha09/ISQA8086/blob/master/DataExploration/DataExploreration.md)
+* [_Data Exploration_  ](https://github.com/anhha09/ISQA8086/blob/master/DataExploration/DataExploration.md)
 ## Instructor
 Dr. Andrea Wiggins
 ## License
