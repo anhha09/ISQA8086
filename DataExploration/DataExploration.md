@@ -14,7 +14,7 @@ For this first plot, the goal is to identify the correlation between temperature
 ## Scatter plot - Dissolved Oxygen and Temperature (water quality site facets)
 ![Plot2](https://github.com/anhha09/ISQA8086/blob/master/DataExploration/Rplot_ScatterPlotFacetSite_DOvsF.png)
 <pre><code> ggplot(dataset)+ geom_point(aes(x = TempF, y = DissolvedOxygen), color = "blue")+ facet_wrap(~ WaterQualitySite, nrow = 2)</code></pre>  
-For this second plot, by adding water quality site facets, the scatter plot does support the hypothesis. In the North scatter plot, when the temperature is high (60F– 100F), the dissolved oxygen amount is lower compared to the amount of dissolved oxygen in the lower temperature (below 60F).
+For this second plot, by adding water quality site facets, the scatter plot does support the hypothesis. In the North scatter plot, when the temperature is high (60F– 100F), the dissolved oxygen amount is lower compared to the amount of dissolved oxygen in the lower temperature (below 60F). For data cleaning, this plot shows that the data from WGP and NEGP sites were recorded during the warmer seasons.
 
 ## Scatter plot - Dissolved Oxygen and Temperature (trend line)
 ![Plot3](https://github.com/anhha09/ISQA8086/blob/master/DataExploration/Rplot_ScatterPlotTrendLine_DOvsF.png)
