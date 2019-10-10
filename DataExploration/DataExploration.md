@@ -9,7 +9,7 @@ For this assignment, a new csv file (CleanedWaterQuality16_17.csv) has been crea
 ## Scatter plot - Dissolved Oxygen and Temperature
 ![Plot1](https://github.com/anhha09/ISQA8086/blob/master/DataExploration/Rplot_ScatterPlot_DOvsF.png)
 <pre><code> ggplot(dataset)+ geom_point(aes(x = TempF, y = DissolvedOxygen), color = "blue")</code></pre>  
-For this first plot, the goal is to identify the correlation between temperature and dissolved water. The expectation is that lower temperature water should hold more dissolved water and vice versa. The scatter plot above does support the hypothesis, however, due to human errors, there are some scatter points.
+For this first plot, the goal is to identify the correlation between temperature and dissolved water. The expectation is that lower temperature water should hold more dissolved oxygen and vice versa. The scatter plot above does support the hypothesis, however, due to human errors, there are some scatter points.
 
 ## Scatter plot - Dissolved Oxygen and Temperature (water quality site facets)
 ![Plot2](https://github.com/anhha09/ISQA8086/blob/master/DataExploration/Rplot_ScatterPlotFacetSite_DOvsF.png)
