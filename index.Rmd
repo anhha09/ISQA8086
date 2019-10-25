@@ -1,7 +1,8 @@
 ---
-title: "Test"
+title: "Index"
 author: "Vincent"
-date: "10/24/2019"
+date: "10/25/2019"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
